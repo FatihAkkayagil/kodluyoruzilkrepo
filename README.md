@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://github.com/FatihAkkayagil/kodluyoruzilkrepo "Kodluyoruz") Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org "Kodluyoruz") Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 
 ![](https://i.hizliresim.com/kcltxsm.png)
 
